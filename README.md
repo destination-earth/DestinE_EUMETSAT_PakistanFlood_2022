@@ -24,9 +24,12 @@ Details about how the data was produced can be found in the given IPython notebo
 ## Usage and Limitations
 ### Run in local JupyterLab
 Create a conda/micromamba environmnent and install required packages as given in the conda-env.yml
+
 ``
 micromamba create -n dedl_usecase -f conda-env.yml --yes
 ``
+
+Install Jupyterlab in the newly created environement or make use of VSCode to run through the notebook.
 
 ### Limitations
 To make use of the DEDL Stack Service Dask, a user needs to be registered and granted access with the corresponding DEDL services.
