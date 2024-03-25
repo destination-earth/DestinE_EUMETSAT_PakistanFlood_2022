@@ -8,7 +8,7 @@ First the current flood situation is investigated and affected areas are delinea
 <img src="./img/DEDL_PakistanFlood2022_CurrentSituation.gif"
      alt="Flood 2022-08-18"
      style="float: left; margin-right: 10px;" /><br><br>
-Outputs of the Weather-Induced Extremes Digital Twin, simulated by ERA5 data, are used to forecast future flooded areas.<br><br>
+Outputs of the Weather-Induced Extremes Digital Twin, simulated by ERA5 data, are used to forecast future flooded areas. Rainfall predications are used to compute accumulated rainfall for the area of Pakistan.<br><br>
 <img src="./img/DEDL_PakistanFlood2022_Forecast.gif"
      alt="Flood 2022-08-18"
      style="float: left; margin-right: 10px;" />
