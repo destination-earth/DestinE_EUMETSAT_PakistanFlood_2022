@@ -1,6 +1,12 @@
 # DestinE_EUMETSAT_PakistanFlood_2022
  Use case demonstration of DestinE Data Lake service for the disaster response assessment following the flood in Pakistan in 2022.
 
+ An overview about how the use case was implemented and the given data flow is given in the following.
+
+ <img src="./img/DEDL_FloodUC_dataflow.png"
+     alt="Flood 2022-08-18"
+     style="width:75%" />
+
 ## Demonstration
 
 First the current flood situation is investigated and affected areas are delineated on a map. Data produced by the Global Flood Monitoring (GFM) Service is used to depict the current situation of the 2022-08-18. Affected areas are deduced by incorporating information about build-up surfaces provided by the Global Human Settlement Layer (GHSL).
